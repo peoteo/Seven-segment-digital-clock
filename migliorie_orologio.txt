@@ -1,0 +1,5 @@
+led di caricamento quando si connette al wifi
+tasto di reboot da browser
+tasto di sync da browser
+sync automatico ogni settimana (se fallisce non cambia niente)
+per adesso può accumulare 10 minuti di ritardo ogni anno
